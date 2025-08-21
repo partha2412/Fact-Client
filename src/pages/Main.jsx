@@ -15,11 +15,10 @@ const Main = ({heading,pera,image,background}) => {
                     {/* Right Section */}
                     <div className="p-1 w-full text-gray-700 ">
                         <label className=' font-semibold text-2xl'>{heading}</label>
-                        <div className='text-neutral-800 h-[69%] md:h-[86%] sm:h-[70%] overflow-y-auto '>   
+                        <div className='text-neutral-800 h-[69%] md:h-[86%] sm:h-[70%] overflow-y-auto'>   
                             <p>
                                {pera} 
                             </p>
-                            {/* <span>this is from span tag</span> */}
                         </div>
                     </div>
                 </div>
