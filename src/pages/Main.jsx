@@ -21,6 +21,9 @@ const Main = ({heading,pera,image,background}) => {
                             </p>
                         </div>
                     </div>
+
+
+                    
                 </div>
 
             </div>
